@@ -2,6 +2,8 @@
 Personal Information about some presentation
 
 
+## Side Project
+1. isBento
 
 ## Presentation
 [All Slides](https://www.slideshare.net/ChihyangLi) can be found on SlideShare
