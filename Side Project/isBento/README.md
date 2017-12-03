@@ -103,8 +103,11 @@ weight | value
 從output weight看到排名最高的四個是 **飯 豬 牛肉 魚** , 最低的是 **餅 麵 蛋 堡**，跟常識(label者)想像中分類的便當店還算吻合
 
 * 可能的問題
- * 斷詞精確度： 拿鐵 -> 拿＋鐵, 抹茶 -> 抹＋茶 ， 這些是
+ * 斷詞精確度： 拿鐵 -> 拿＋鐵, 抹茶 -> 抹＋茶 ， 這些是觀察分詞的分類修正斷詞字典前出現的錯誤
+ * training data set size 有點小
 
 ### 未來工作
-1. 可以做multi-class classification
-2. 改善斷詞字典
+1. 更多Learning Algorithms 測試
+2. bigger data set
+3. unsupervised or semi-supervised multi-class classification
+4. 改善斷詞字典
