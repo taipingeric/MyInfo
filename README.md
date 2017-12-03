@@ -3,7 +3,7 @@ Personal Information about some presentation
 
 
 ## Side Project
-1. [isBento](../master/SideProject/isBento)
+1. [餐廳店家分類](../master/SideProject/isBento)
 
 ## Presentation
 [All Slides](https://www.slideshare.net/ChihyangLi) can be found on SlideShare
