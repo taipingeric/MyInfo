@@ -72,7 +72,7 @@ ex:
 排 | 0
 蝦 | 0
 
-* Label: 這裡人工標記以上348家店是否為便當店
+* Label: 這裡人工標記以上菜單的348家店是否為便當店
 * 這裡使用最簡單的Learning Algorithm: PLA做traning
  * training data set: 248
  * test data set: 100
