@@ -1,10 +1,11 @@
 # MyInfo
 Personal Information about some presentation
 
-[All Slides](https://www.slideshare.net/ChihyangLi) can be found on SlideShare
+
 
 ## Presentation
-####Object Oriented Programming
+[All Slides](https://www.slideshare.net/ChihyangLi) can be found on SlideShare
+#### Object Oriented Programming
 
 1. [Introduction & Encapsulation](https://www.slideshare.net/ChihyangLi/object-oriented-programming-in-swift-ch0)
 2. [Inheritance](https://www.slideshare.net/ChihyangLi/object-oriented-programming-in-swift-ch1-inheritance)
