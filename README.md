@@ -3,7 +3,8 @@ Personal Information about some presentation
 
 
 ## Side Project
-1. [餐廳店家分類](../master/SideProject/isBento)
+1. [Wine class classification by PLA](https://github.com/taipingeric/WineClassification)
+2. [Restuarant classification](../master/SideProject/isBento)
 
 ## Presentation
 [All Slides](https://www.slideshare.net/ChihyangLi) can be found on SlideShare
