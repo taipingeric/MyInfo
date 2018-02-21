@@ -3,8 +3,9 @@ Personal Information about some presentation
 
 
 ## Side Project
-1. [Wine class classification by PLA](https://github.com/taipingeric/WineClassification)
-2. [Restuarant classification](../master/SideProject/isBento)
+1. [Kaggle House Prices prediction](https://github.com/taipingeric/Kaggle_HousePrices)
+2. [Wine class classification by PLA](https://github.com/taipingeric/WineClassification)
+3. [Restuarant classification](../master/SideProject/isBento)
 
 ## Presentation
 [All Slides](https://www.slideshare.net/ChihyangLi) can be found on SlideShare
